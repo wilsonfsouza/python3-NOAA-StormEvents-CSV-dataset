@@ -77,10 +77,10 @@ You will need to pass the source directory, which is where your scripts and data
     - .gzip files
     - StormEvents CSV (*new*)
         - N00_Original (*new*)
-        - N01_InProcess (*new*)
             - details (*new*)
             - locations (*new*)
             - fatalities (*new*)
+        - N01_InProcess (*new*)
         - N02_Final (*new*)
 
 Made with :heart: by [Wilson Franca](https://www.linkedin.com/in/wilsonfranca-env-engineer/) :wave:
