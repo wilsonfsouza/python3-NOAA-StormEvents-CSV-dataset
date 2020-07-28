@@ -13,7 +13,7 @@ This project aimed to extract and summarize information from [NOAA Historical St
 
 - python 3.7.3
 ### Code Editor:
-- VS Code.
+- VS Code
 ### Libraries:
 - csv
 - glob
@@ -26,7 +26,7 @@ This project aimed to extract and summarize information from [NOAA Historical St
 # Workspace Setup
 ### 1. Install virtualenv globally using this [tutorial](https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/).
 
-### 2. Create a Virtual Environment and activate it
+### 2. Create a Virtual Environment and activate it:
 In the desired folder, create and activate your virtual environment.
 ```bash
 # Virtualenv modules installation (Windows based systems)
@@ -44,7 +44,7 @@ $ virtualenv --python=/usr/bin/python3 --no-site-packages env
 $ source env/bin/activate
 ```
 
-### 3. Install modules
+### 3. Install modules:
 ```bash
 # Install modules
 $ pip3 install -r requirements.txt
