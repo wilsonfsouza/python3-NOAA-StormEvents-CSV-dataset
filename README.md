@@ -1,5 +1,6 @@
 # Introduction
-This project aimed to extract and summarize information from [NOAA Historical Storm Events Dataset](ftp://ftp.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/) into a final CSV file for Harris County, Texas.
+This project aimed to extract data from [NOAA Historical Storm Events Dataset](ftp://ftp.ncdc.noaa.gov/pub/data/swdi/stormevents/csvfiles/) into a CSV file for Harris County, Texas. It can be easily modified to extract historical data for any given county in the US.
+
 
 # Table of Contents
 - [Technologies used](#technologies-used)
